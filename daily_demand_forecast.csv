@@ -1,0 +1,151 @@
+Date,ProductCategory,Forecast_Units
+2025-01-10,Beauty & Personal Care,807.22
+2025-01-10,Home & Kitchen,813.11
+2025-01-10,Clothing,815.73
+2025-01-10,Grocery,838.83
+2025-01-10,Electronics,811.38
+2025-01-11,Beauty & Personal Care,808.32
+2025-01-11,Home & Kitchen,806.72
+2025-01-11,Clothing,814.09
+2025-01-11,Grocery,826.83
+2025-01-11,Electronics,820.96
+2025-01-12,Clothing,804.63
+2025-01-12,Grocery,843.21
+2025-01-12,Beauty & Personal Care,809.23
+2025-01-12,Electronics,809.32
+2025-01-12,Home & Kitchen,806.71
+2025-01-13,Electronics,812.59
+2025-01-13,Home & Kitchen,807.28
+2025-01-13,Grocery,825.11
+2025-01-13,Clothing,819.43
+2025-01-13,Beauty & Personal Care,806.27
+2025-01-14,Grocery,817.97
+2025-01-14,Clothing,810.89
+2025-01-14,Electronics,816.66
+2025-01-14,Beauty & Personal Care,808.37
+2025-01-14,Home & Kitchen,804.91
+2025-01-15,Grocery,814.04
+2025-01-15,Electronics,813.5
+2025-01-15,Clothing,810.64
+2025-01-15,Beauty & Personal Care,809.35
+2025-01-15,Home & Kitchen,811.66
+2025-01-16,Home & Kitchen,805.89
+2025-01-16,Electronics,810.46
+2025-01-16,Beauty & Personal Care,809.24
+2025-01-16,Clothing,810.8
+2025-01-16,Grocery,814.37
+2025-01-17,Home & Kitchen,813.06
+2025-01-17,Electronics,808.72
+2025-01-17,Beauty & Personal Care,813.2
+2025-01-17,Clothing,807.37
+2025-01-17,Grocery,821.02
+2025-01-18,Electronics,814.9
+2025-01-18,Beauty & Personal Care,805.2
+2025-01-18,Grocery,822.33
+2025-01-18,Home & Kitchen,810.07
+2025-01-18,Clothing,808.18
+2025-01-19,Electronics,808.95
+2025-01-19,Home & Kitchen,808.22
+2025-01-19,Grocery,816.69
+2025-01-19,Clothing,808.36
+2025-01-19,Beauty & Personal Care,801.78
+2025-01-20,Grocery,809.86
+2025-01-20,Home & Kitchen,813.38
+2025-01-20,Clothing,810.87
+2025-01-20,Electronics,807.1
+2025-01-20,Beauty & Personal Care,804.0
+2025-01-21,Beauty & Personal Care,805.52
+2025-01-21,Home & Kitchen,809.74
+2025-01-21,Electronics,804.32
+2025-01-21,Clothing,809.45
+2025-01-21,Grocery,814.34
+2025-01-22,Electronics,809.68
+2025-01-22,Beauty & Personal Care,807.1
+2025-01-22,Home & Kitchen,809.84
+2025-01-22,Grocery,810.08
+2025-01-22,Clothing,814.01
+2025-01-23,Electronics,809.88
+2025-01-23,Beauty & Personal Care,811.25
+2025-01-23,Home & Kitchen,806.18
+2025-01-23,Grocery,805.92
+2025-01-23,Clothing,807.87
+2025-01-24,Home & Kitchen,803.38
+2025-01-24,Grocery,816.78
+2025-01-24,Electronics,806.22
+2025-01-24,Beauty & Personal Care,804.05
+2025-01-24,Clothing,806.21
+2025-01-25,Electronics,807.84
+2025-01-25,Clothing,805.68
+2025-01-25,Beauty & Personal Care,810.99
+2025-01-25,Home & Kitchen,804.41
+2025-01-25,Grocery,811.83
+2025-01-26,Clothing,803.06
+2025-01-26,Beauty & Personal Care,802.46
+2025-01-26,Grocery,810.82
+2025-01-26,Electronics,805.93
+2025-01-26,Home & Kitchen,807.15
+2025-01-27,Clothing,809.83
+2025-01-27,Beauty & Personal Care,808.18
+2025-01-27,Electronics,803.96
+2025-01-27,Home & Kitchen,803.38
+2025-01-27,Grocery,801.52
+2025-01-28,Beauty & Personal Care,807.95
+2025-01-28,Grocery,816.73
+2025-01-28,Clothing,804.36
+2025-01-28,Electronics,805.65
+2025-01-28,Home & Kitchen,808.26
+2025-01-29,Grocery,802.43
+2025-01-29,Beauty & Personal Care,811.74
+2025-01-29,Clothing,818.44
+2025-01-29,Home & Kitchen,813.85
+2025-01-29,Electronics,812.26
+2025-01-30,Electronics,808.79
+2025-01-30,Beauty & Personal Care,817.36
+2025-01-30,Home & Kitchen,807.18
+2025-01-30,Clothing,809.28
+2025-01-30,Grocery,810.07
+2025-01-31,Clothing,812.54
+2025-01-31,Electronics,805.58
+2025-01-31,Beauty & Personal Care,807.24
+2025-01-31,Home & Kitchen,807.33
+2025-01-31,Grocery,810.52
+2025-02-01,Clothing,805.9
+2025-02-01,Grocery,803.46
+2025-02-01,Electronics,811.65
+2025-02-01,Home & Kitchen,803.33
+2025-02-01,Beauty & Personal Care,806.06
+2025-02-02,Home & Kitchen,809.59
+2025-02-02,Grocery,822.43
+2025-02-02,Clothing,806.95
+2025-02-02,Electronics,812.87
+2025-02-02,Beauty & Personal Care,805.84
+2025-02-03,Clothing,803.15
+2025-02-03,Electronics,813.71
+2025-02-03,Home & Kitchen,801.7
+2025-02-03,Beauty & Personal Care,808.23
+2025-02-03,Grocery,818.76
+2025-02-04,Clothing,799.71
+2025-02-04,Electronics,813.04
+2025-02-04,Grocery,808.59
+2025-02-04,Home & Kitchen,801.9
+2025-02-04,Beauty & Personal Care,823.35
+2025-02-05,Home & Kitchen,808.84
+2025-02-05,Beauty & Personal Care,805.74
+2025-02-05,Clothing,805.3
+2025-02-05,Electronics,808.37
+2025-02-05,Grocery,807.37
+2025-02-06,Beauty & Personal Care,803.3
+2025-02-06,Clothing,801.68
+2025-02-06,Grocery,801.05
+2025-02-06,Home & Kitchen,809.22
+2025-02-06,Electronics,805.99
+2025-02-07,Clothing,803.75
+2025-02-07,Grocery,800.4
+2025-02-07,Electronics,804.21
+2025-02-07,Home & Kitchen,804.38
+2025-02-07,Beauty & Personal Care,805.88
+2025-02-08,Grocery,801.74
+2025-02-08,Clothing,804.73
+2025-02-08,Beauty & Personal Care,805.15
+2025-02-08,Electronics,802.54
+2025-02-08,Home & Kitchen,804.63
